@@ -9,10 +9,7 @@
 import React, {Component} from 'react';
 import {
     AppRegistry,
-    StyleSheet,
-    Text,
-    View,
-    Navigator
+    StyleSheet
 } from 'react-native';
 
 var HomeView = require('./src/home/Home.js')
